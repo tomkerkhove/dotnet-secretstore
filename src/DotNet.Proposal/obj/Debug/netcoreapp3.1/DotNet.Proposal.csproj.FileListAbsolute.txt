@@ -1,0 +1,10 @@
+C:\Code\GitHub\dotnet-secretstore\src\DotNet.Proposal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Code\GitHub\dotnet-secretstore\src\DotNet.Proposal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Code\GitHub\dotnet-secretstore\src\DotNet.Proposal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Code\GitHub\dotnet-secretstore\src\DotNet.Proposal\obj\Debug\netcoreapp3.1\DotNet.Proposal.csprojAssemblyReference.cache
+C:\Code\GitHub\dotnet-secretstore\src\DotNet.Proposal\obj\Debug\netcoreapp3.1\staticwebassets\DotNet.Proposal.StaticWebAssets.Manifest.cache
+C:\Code\GitHub\dotnet-secretstore\src\DotNet.Proposal\obj\Debug\netcoreapp3.1\staticwebassets\DotNet.Proposal.StaticWebAssets.xml
+C:\Code\GitHub\dotnet-secretstore\src\DotNet.Proposal\obj\Debug\netcoreapp3.1\DotNet.Proposal.AssemblyInfoInputs.cache
+C:\Code\GitHub\dotnet-secretstore\src\DotNet.Proposal\obj\Debug\netcoreapp3.1\DotNet.Proposal.AssemblyInfo.cs
+C:\Code\GitHub\dotnet-secretstore\src\DotNet.Proposal\obj\Debug\netcoreapp3.1\DotNet.Proposal.RazorTargetAssemblyInfo.cache
+C:\Code\GitHub\dotnet-secretstore\src\DotNet.Proposal\bin\Debug\netcoreapp3.1\DotNet.Proposal.exe
